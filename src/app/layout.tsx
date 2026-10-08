@@ -8,8 +8,9 @@ import "./globals.css";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "বাজার দর",
-  description: "প্রয়োজনীয় পণ্যের দাম এক নজরে",
+  title: "বাজার দর — নিত্যপ্রয়োজনীয় পণ্যের বাজার দর ট্র্যাকার",
+  description: "আজকের চাল, ডাল, তেল, সবজি, মাছ, মাংস ও মসলার বাজার দর এক নজরে দেখুন।",
+  keywords: ["বাজার দর", "BazarDor", "Market Price Bangladesh", "Daily Bazar Rate"],
 };
 
 export default function RootLayout({
