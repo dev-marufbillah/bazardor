@@ -69,3 +69,7 @@
 ```bash
 git clone https://github.com/dev-marufbillah/bazardor.git
 cd bazardor
+
+## 📜 লাইসেন্স (License)
+
+এই প্রজেক্টটি MIT লাইসেন্সের অধীনে মুক্ত ব্যবহারের জন্য উন্মুক্ত।
